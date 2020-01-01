@@ -1,0 +1,113 @@
+p {
+    font-family: Lato;
+  }
+  .display
+  {
+    font-size:51px;
+    border: 1px solid red;
+  width: 30%;
+  font-weight: 700!important;
+    margin-left: 70px; 
+    border-radius: 8px;
+    
+    color:green;
+    background-color: white;
+  }
+  .display b
+  {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  h1,p
+  {
+    margin-left: 70px;
+  }
+  .first_div
+  {
+    background-image: url("https://images.learnmall.in/batCover.jpg");
+    height: 275px;
+    margin-top: 0px;
+  }
+  .heading1
+  {
+    color:#f5365c;
+  }
+  p
+  {
+    color:wheat;
+    font-size: 35px;
+  }
+  button
+  {
+    background-color: rgba(79, 179, 79, 0.89);
+    color:white;
+    border:1px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top:10px;
+    padding-bottom:10px;
+  }
+  .second_div
+  {
+    margin-left: 10px;
+  }
+  .first_span
+  {
+    color:black;
+    font-size: 40px;
+    font-style: italic;
+    font-weight:bolder;
+  
+  }
+  div.second_span
+  {
+    width:26%;
+    background-color: green;
+    border-radius: 8px;
+    padding-top:18px;
+    padding-bottom: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+  }
+  div.bg-default
+  {
+    background-color: #1b293c;
+  }
+  .green
+  {
+    color:green;
+  }
+  .white
+  {
+    color:white;
+    font-size: 20px;
+  }
+  div.third_span
+  {
+       border: 1px solid black;
+      margin-left: 54px;
+      width: 28%;
+     
+      border-radius: 8px;
+  padding-top:18px;
+    padding-bottom: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+  }
+  
+  div.fourth_div
+  {
+    height:220px;
+   background-color: rgb(47, 194, 47);
+  }
+  
+  h2.potential_benifits
+  {
+    font-size: 70px;
+    text-align: center;
+  }
+  
