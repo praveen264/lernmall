@@ -53,6 +53,15 @@ p {
   {
     margin-left: 10px;
   }
+  .second_div>div>ul
+  {
+	  display:flex;
+	  list-style:none;
+  }
+  .second_div>div>ul>li
+  {
+	  margin-left:20px;
+  }
   .first_span
   {
     color:black;
@@ -110,4 +119,13 @@ p {
     font-size: 70px;
     text-align: center;
   }
-  
+.second_div>ul
+{
+  list-style: none;
+    display: flex;
+    margin-left: -84px;
+}  
+.second_div>ul>li
+{
+  padding-left: 165px;
+}
